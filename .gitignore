@@ -1,0 +1,11 @@
+# Ignore CSV, ZIP, Parquet, and GZ files
+*.csv
+*.zip
+*.parquet
+*.gz
+
+# Ignore ny_taxi_postgres_data folder
+ny_taxi_postgres_data/
+
+# Ignore environment file
+.env
