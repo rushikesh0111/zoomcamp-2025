@@ -9,3 +9,6 @@ ny_taxi_postgres_data/
 
 # Ignore environment file
 .env
+
+# Ignore Jupyter notebook checkpoints
+.ipynb_checkpoints/
